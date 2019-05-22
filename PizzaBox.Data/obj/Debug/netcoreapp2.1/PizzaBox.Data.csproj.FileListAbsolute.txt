@@ -1,0 +1,11 @@
+C:\Users\micha\source\repos\PizzaBox\PizzaBox.Data\bin\Debug\netcoreapp2.1\PizzaBox.Data.deps.json
+C:\Users\micha\source\repos\PizzaBox\PizzaBox.Data\bin\Debug\netcoreapp2.1\PizzaBox.Data.dll
+C:\Users\micha\source\repos\PizzaBox\PizzaBox.Data\bin\Debug\netcoreapp2.1\PizzaBox.Data.pdb
+C:\Users\micha\source\repos\PizzaBox\PizzaBox.Data\obj\Debug\netcoreapp2.1\PizzaBox.Data.csprojAssemblyReference.cache
+C:\Users\micha\source\repos\PizzaBox\PizzaBox.Data\obj\Debug\netcoreapp2.1\PizzaBox.Data.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\PizzaBox\PizzaBox.Data\obj\Debug\netcoreapp2.1\PizzaBox.Data.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\PizzaBox\PizzaBox.Data\obj\Debug\netcoreapp2.1\PizzaBox.Data.AssemblyInfo.cs
+C:\Users\micha\source\repos\PizzaBox\PizzaBox.Data\obj\Debug\netcoreapp2.1\PizzaBox.Data.dll
+C:\Users\micha\source\repos\PizzaBox\PizzaBox.Data\obj\Debug\netcoreapp2.1\PizzaBox.Data.pdb
+C:\Users\micha\source\repos\PizzaBox\PizzaBox.Data\bin\Debug\netcoreapp2.1\PizzaBox.Data.runtimeconfig.json
+C:\Users\micha\source\repos\PizzaBox\PizzaBox.Data\bin\Debug\netcoreapp2.1\PizzaBox.Data.runtimeconfig.dev.json

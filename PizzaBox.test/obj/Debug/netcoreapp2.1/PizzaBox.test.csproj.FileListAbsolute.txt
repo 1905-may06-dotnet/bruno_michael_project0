@@ -1,0 +1,9 @@
+C:\Users\micha\source\repos\PizzaBox\PizzaBox.test\bin\Debug\netcoreapp2.1\PizzaBox.test.deps.json
+C:\Users\micha\source\repos\PizzaBox\PizzaBox.test\bin\Debug\netcoreapp2.1\PizzaBox.test.dll
+C:\Users\micha\source\repos\PizzaBox\PizzaBox.test\bin\Debug\netcoreapp2.1\PizzaBox.test.pdb
+C:\Users\micha\source\repos\PizzaBox\PizzaBox.test\obj\Debug\netcoreapp2.1\PizzaBox.test.csprojAssemblyReference.cache
+C:\Users\micha\source\repos\PizzaBox\PizzaBox.test\obj\Debug\netcoreapp2.1\PizzaBox.test.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\PizzaBox\PizzaBox.test\obj\Debug\netcoreapp2.1\PizzaBox.test.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\PizzaBox\PizzaBox.test\obj\Debug\netcoreapp2.1\PizzaBox.test.AssemblyInfo.cs
+C:\Users\micha\source\repos\PizzaBox\PizzaBox.test\obj\Debug\netcoreapp2.1\PizzaBox.test.dll
+C:\Users\micha\source\repos\PizzaBox\PizzaBox.test\obj\Debug\netcoreapp2.1\PizzaBox.test.pdb
